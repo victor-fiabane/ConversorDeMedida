@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="zulao">#091540</color>
+    <color name="zulin">#1B2CC1</color>
+    <color name="zuzin">#ABD2FA</color>
+    <color name="zuzado">#1E96FC</color>
+</resources>
